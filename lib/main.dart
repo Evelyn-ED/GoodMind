@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:';
+import 'package:GoodMind/splash_page.dart';
 
-import 'package:GoodMind/';
 void main() {
   runApp(
     const MaterialApp(home: SplashPage()),

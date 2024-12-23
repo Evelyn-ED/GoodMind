@@ -1,6 +1,5 @@
 import 'package:GoodMind/bd/db_helper.dart';
 import 'package:GoodMind/domain/User.dart';
-import 'package:';
 import 'package:sqflite/sqflite.dart';
 
 class UserDao {

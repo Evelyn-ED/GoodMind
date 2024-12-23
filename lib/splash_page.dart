@@ -1,7 +1,7 @@
-import 'package:projeto_fran/bancoD/shared_prefs.dart';
+import 'package:GoodMind/bd/shared_prefs.dart';
 import 'package:flutter/material.dart';
-import 'package:projeto_fran/projectPrincipal.dart';
-import 'package:projeto_fran/segundaTela.dart';
+import 'package:GoodMind/projectPrincipal.dart';
+import 'package:GoodMind/segundaTela.dart';
 
 class SplashPage extends StatefulWidget {
   const SplashPage({super.key});

@@ -1,11 +1,10 @@
 import 'package:flutter/material.dart';
-import 'package:projeto_fran/bancoD/shared_prefs.dart';
-import 'package:projeto_fran/bancoD/user_dao.dart';
-import 'package:projeto_fran/segundaTela.dart';
+import 'package:GoodMind/bd/shared_prefs.dart';
+import 'package:GoodMind/bd/user_dao.dart';
+import 'package:GoodMind/segundaTela.dart';
 import 'package:google_fonts/google_fonts.dart';
-import 'package:projeto_fran/componentesdoApp/decoracion.dart';
-import 'package:projeto_fran/teladeCadastro.dart';
-import 'package:GoodMain';
+import 'package:GoodMind/componentesdoApp/decoracion.dart';
+import 'package:GoodMind/teladeCadastro.dart';
 
 
 class Projeto extends StatefulWidget {

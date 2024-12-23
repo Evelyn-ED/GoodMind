@@ -1,7 +1,7 @@
 import 'package:flutter/cupertino.dart';
-import 'package:projeto_fran/bancoD/user_dao.dart';
-import 'package:projeto_fran/componentesdoApp/decoracion.dart';
-import 'package:projeto_fran/domain/User.dart';
+import 'package:GoodMind/bd/user_dao.dart';
+import 'package:GoodMind/componentesdoApp/decoracion.dart';
+import 'package:GoodMind/domain/User.dart';
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 
