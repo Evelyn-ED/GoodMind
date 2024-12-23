@@ -5,6 +5,7 @@ import 'package:projeto_fran/segundaTela.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:projeto_fran/componentesdoApp/decoracion.dart';
 import 'package:projeto_fran/teladeCadastro.dart';
+import 'package:GoodMain';
 
 
 class Projeto extends StatefulWidget {
